@@ -1,0 +1,8 @@
+- name: 首页
+  link: /
+- name: 归档
+  link: /posts
+- name: 关于我
+  link: /about
+- name: 友情链接
+  link: /links
