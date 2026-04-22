@@ -1,0 +1,19 @@
+# 博客基础信息
+theme: minima
+title: 顾远的技术笔记   # 改成你自己的博客名
+author: 顾远            # 改成你的名字
+description: 计算机学习｜编程笔记｜日常分享  # 改成你想要的简介
+language: zh-CN         # 语言设置为中文
+timezone: Asia/Shanghai # 时区设置为北京时间
+
+# 纯白极简主题配置（保持不变）
+minima:
+  skin: light
+  social_links: []
+
+# 开启Markdown支持和代码高亮（保持不变）
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
